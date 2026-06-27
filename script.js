@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY";
+const apiKey = "Your API Key";
 
 const searchBtn = document.getElementById("searchBtn");
 const weatherDiv = document.getElementById("weather");
